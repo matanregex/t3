@@ -4,7 +4,7 @@ public class Main
 {
   public static void Foo(string appName)
   {
-    Console.WriteLine("Test");
+    Console.WriteLine("Test1");
     //Todo - Create code
   }
 }
